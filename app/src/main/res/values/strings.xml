@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Setting</string>"
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorect_toast">Incorrect</string>
+    <string name="q_ocean">The Pacific is the largest ocean in the world</string>
+    <string name="q_mideast">The Suez Canal connects the Red Sea \n  and Indian Ocean</string>
+    <string name="q_africa">The source of the Nile river is in Durban</string>
+    <string name="q_americas">The amazon river is the longest in the Americas</string>
+    <string name="q_asia">Lake Baikal is the world n\ oldest freshwater lake</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="warning_text">Are you sure you want do this?</string>>
+    <string name="show_answer">SHOW ANSWER</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+</resources>
